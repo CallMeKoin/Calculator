@@ -1,21 +1,8 @@
-/*
-
-Kalkulator:
--dodawania
--odejmowania
--mno¿enia
--dzielenia
--potêgowania
-
-*/
-
 #include <iostream>
 #include <cmath>
 #include <conio.h>
 
 using namespace std;
-
-// tu dawaj resource
 
 char tryb;
 float liczba1;
@@ -24,7 +11,7 @@ float wynik = 0;
 string(test);
 
 
-int main() // tu siê kodujê
+int main()
 {
 	for (1; 1;)
 	{
@@ -46,7 +33,7 @@ int main() // tu siê kodujê
 		break;
 		case '3':
 		{
-			cout << "mno¿enie" << endl;
+			cout << "mnoÅ¼enie" << endl;
 		}
 		break;
 		case '4':
