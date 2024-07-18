@@ -1,1 +1,1 @@
-This is just source code for people who don't trust me
+The source code is for people who don't trust me
